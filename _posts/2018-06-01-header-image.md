@@ -1,8 +1,10 @@
 ---
 title: Post with Header Image
 tags: TeXt
-sharing: true
-comment: true
+base:
+  sharing: true
+articles:
+  comment: true
 article_header:
   type: cover
   image:
