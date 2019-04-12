@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153.12 153.12"><defs><style>.cls-1{fill:#414042;}.cls-2{fill:none;stroke:#414042;stroke-miterlimit:10;stroke-width:5px;}</style></defs><title>Asset 3</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_10" data-name="Layer 10"><path class="cls-1" d="M76.56,7A69.56,69.56,0,1,1,7,76.56,69.56,69.56,0,0,1,76.56,7m0-7a76.56,76.56,0,1,0,76.56,76.56A76.65,76.65,0,0,0,76.56,0Z"/></g><g id="Layer_9" data-name="Layer 9"><line class="cls-2" x1="75.65" y1="36.84" x2="65.45" y2="20.88"/></g><g id="Layer_18" data-name="Layer 18"><polygon class="cls-2" points="21.92 98.44 65.58 20.02 84.56 20.36 133.04 95.67 123.9 112.28 85.45 52.97 51.08 114.69 32.12 114.41 21.92 98.44"/><polyline class="cls-2" points="32.12 114.41 75.78 35.98 94.74 36.26"/><line class="cls-2" x1="76.56" y1="69.86" x2="80.9" y2="76.56"/><polyline class="cls-2" points="94.63 98.02 105.01 113.8 123.9 113.55"/><polyline class="cls-2" points="61.84 95.36 70.6 108.88 89.49 107.36 98.63 90.74 88.87 75.68 72.16 77.03"/><polyline class="cls-2" points="88.87 75.68 79.73 92.29 89.49 107.36"/><line class="cls-2" x1="62.69" y1="93.83" x2="79.73" y2="92.29"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153.122 153.122">
+  <title>Logo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_10" data-name="Layer 10">
+      <path d="M76.561,7A69.561,69.561,0,1,1,7,76.561,69.562,69.562,0,0,1,76.561,7m0-7a76.561,76.561,0,1,0,76.561,76.561A76.648,76.648,0,0,0,76.561,0Z" style="fill: #414042"/>
+    </g>
+    <g id="Layer_9" data-name="Layer 9">
+      <line x1="75.652" y1="36.843" x2="65.448" y2="20.878" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <g id="Layer_18" data-name="Layer 18">
+      <polygon points="21.916 98.445 65.581 20.016 84.564 20.36 133.038 95.669 123.896 112.283 85.448 52.971 51.08 114.692 32.119 114.411 21.916 98.445" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <polyline points="32.119 114.411 75.784 35.98 94.74 36.261" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <line x1="76.561" y1="69.865" x2="80.897" y2="76.561" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <polyline points="94.625 98.021 105.007 113.803 123.897 113.545" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <polyline points="61.845 95.359 70.601 108.879 89.487 107.358 98.63 90.744 88.87 75.677 72.163 77.034" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <polyline points="88.869 75.678 79.73 92.287 89.487 107.358" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+      <line x1="62.695" y1="93.833" x2="79.73" y2="92.287" style="fill: none;stroke: #414042;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+  </g>
+</svg>
