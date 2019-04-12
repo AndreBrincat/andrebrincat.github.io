@@ -1,4 +1,5 @@
 {%- assign _author = include.author -%}
+{%- assign _iconcolor = include.iconcolors -%}
 
 <div class="author-links">
   <ul class="menu menu--nowrap menu--inline">
@@ -23,7 +24,7 @@
     {%- if _author.email -%}
       <li title="{{ _locale_string_email }}">
       <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
-        <i class="fas fa-envelope"></i>
+        <i class="fas fa-envelope" style="color:#{{ _iconcolor }};"></i>
       </a>
     {%- endif -%}
 
@@ -31,7 +32,7 @@
     {%- if _author.facebook -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
         <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/facebook.svg -%}</div>
+          <i class="fab fa-facebook-f" style="color:#{{ _iconcolor }};"></i>
         </a>
       </li>
     {%- endif -%}
@@ -39,7 +40,7 @@
     {%- if _author.twitter -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}">
         <a class="button button--circle twitter-button" itemprop="sameAs" href="https://twitter.com/{{ _author.twitter }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/twitter.svg -%}</div>
+          <i class="fab fa-twitter" style="color:#{{ _iconcolor }};"></i>
         </a>
       </li>
     {%- endif -%}
@@ -95,7 +96,7 @@
     {%- if _author.linkedin -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
         <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
+          <i class="fab fa-linkedin-in" style="color:#{{ _iconcolor }};"></i>
         </a>
       </li>
     {%- endif -%}
@@ -103,7 +104,7 @@
     {%- if _author.github -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
         <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
+          <i class="fab fa-github" style="color:#{{ _iconcolor }};"></i>
         </a>
       </li>
     {%- endif -%}
