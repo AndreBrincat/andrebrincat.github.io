@@ -4,6 +4,8 @@ sharing: true
 title: Post with Header Image
 tags: TeXt
 sharing: true
+comment: true
+key: test_comments
 article_header:
   type: cover
   image:
