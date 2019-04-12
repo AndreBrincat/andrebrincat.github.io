@@ -3,8 +3,7 @@ layout: article
 sharing: true
 title: Post with Header Image
 tags: TeXt
-sharing : true
-comment: true
+sharing: true
 article_header:
   type: cover
   image:
