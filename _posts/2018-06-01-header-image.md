@@ -2,7 +2,7 @@
 title: Post with Header Image
 tags: TeXt
 sharing : true
-comments: true
+comment: true
 article_header:
   type: cover
   image:
