@@ -5,7 +5,7 @@ title: Post with Header Image
 tags: TeXt
 sharing: true
 comment: true
-key: test_comments
+key: test-comments
 article_header:
   type: cover
   image:
